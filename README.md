@@ -33,7 +33,7 @@ Naive_Bayes_model_imdb.pkl: Pickled Multinomial Naive Bayes model trained on IMD
 
 countVect_imdb.pkl: Pickled CountVectorizer used for text vectorization during model training.
 
-templates/: Directory containing HTML templates for rendering the web pages.
+templates/: Directory containing HTML templates for rendering the web pages..
 
 home.html: HTML template for the home page with the input form.
 
