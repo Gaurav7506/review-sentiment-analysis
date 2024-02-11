@@ -31,7 +31,7 @@ app.py: The main Flask application file containing routes and model loading.
 
 Naive_Bayes_model_imdb.pkl: Pickled Multinomial Naive Bayes model trained on IMDb movie review data..
 
-countVect_imdb.pkl: Pickled CountVectorizer used for text vectorization during model training.
+countVect_imdb.pkl: Pickled CountVectorizer used for text vectorization during model training..
 
 templates/: Directory containing HTML templates for rendering the web pages..
 
