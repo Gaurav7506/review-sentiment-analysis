@@ -35,6 +35,6 @@ countVect_imdb.pkl: Pickled CountVectorizer used for text vectorization during m
 
 templates/: Directory containing HTML templates for rendering the web pages..
 
-home.html: HTML template for the home page with the input form.
+home.html: HTML template for the home page with the input form..
 
 result.html: HTML template for displaying the prediction result..
