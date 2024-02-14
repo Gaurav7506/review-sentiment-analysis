@@ -37,4 +37,4 @@ templates/: Directory containing HTML templates for rendering the web pages..
 
 home.html: HTML template for the home page with the input form..
 
-result.html: HTML template for displaying the prediction result..
+result.html: HTML template for displaying the prediction result.
