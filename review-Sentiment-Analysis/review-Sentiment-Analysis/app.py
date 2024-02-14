@@ -6,7 +6,7 @@ import joblib
 
 app = Flask(__name__)
 
-# Load models
+
 with open('Naive_Bayes_model_imdb.pkl', 'rb') as f:
     mnb = pickle.load(f)
 
